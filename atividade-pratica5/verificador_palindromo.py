@@ -4,6 +4,14 @@ def eh_palindromo(frase):
     """
     Verifica se uma palavra ou frase é um palíndromo,
     ignorando espaços e pontuação.
+    
+    Exemplos de palíndromos:
+    A base do teto desaba;
+    A cara rajada da jararaca;
+    A torre da derrota;
+    O lobo ama o bolo;
+    Anotaram a data da maratona.
+    
 
     Parâmetros:
     - frase (str): A string a ser verificada.
